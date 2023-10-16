@@ -1,0 +1,19 @@
+/* Apply "Roboto Mono" to h1 */
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    color: green;
+    font-size: 24px;
+}
+
+/* Apply "Noto Serif" to #custom-text */
+#custom-text {
+    font-family: 'Noto Serif', serif; /* Use "Noto Serif" for this element */
+    color: red; /* You can specify the color and other styles here */
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Set a background color for the entire page */
+body {
+    background-color: #000000; /* Replace with the color of your choice */
+}
